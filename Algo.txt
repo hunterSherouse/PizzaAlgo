@@ -3,3 +3,6 @@ Step 2: Wait for pizza's arrival
 Step 3: Pay for pizza and take pizza
 Step 4: Eat pizza
 say "mmmmm"
+drink beer
+take nap
+
